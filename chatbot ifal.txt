@@ -1,0 +1,38 @@
+#CHATBOT EM PYTHON,AQUAL TEM O FOCO ENCiNAR ETICA
+#ENTRA É O QUE O USUARIO IRAR PEDIR OU DIGITAR 
+entrada=str(input("digite uma pergunta"))
+
+
+#primeira regra ou condição
+if (entrada == "o que é etica?"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#segunda regra ou condição
+if (entrada == "o que é etica"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#terceira regra ou condição
+if (entrada == "pode me falar sobre etica?"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#quarta regra ou condição
+if (entrada == "pode me falar sobre etica"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#quinta regra ou condição
+if (entrada == "gostaria de saber o que é  etica"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#sexta regra ou condição  
+if (entrada == "queria saber o que é  etica?"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#setima regra ou condição    
+if (entrada == "pode me falar sobre etica?"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#regra ou condição 
+if (entrada == "quero aprender etica"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#regra ou condição
+if (entrada == "queria aprender etica"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+#regra ou condição
+if (entrada == "queria aprender etica pode me ajudar?"):
+    print("etica é um cojunto de valore bla,bla,bla,bla")
+    
+    
+    
